@@ -161,6 +161,14 @@ top: 950px;
    font-family: Copperplate, Papyrus, fantasy, monospace;
    width: 300px;
 }
+.s4{
+  position: absolute;
+top: 960px;
+  left:650px;
+  height: 200px;
+   font-family: Copperplate, Papyrus, fantasy, monospace;
+   width: 300px;
+}
 .b1{
 position: absolute;
 top: 1200px;
