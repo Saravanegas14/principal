@@ -177,6 +177,14 @@ top: 1000px;
    font-family: Copperplate, Papyrus, fantasy, monospace;
    width: 300px;
 }
+.s7{
+  position: absolute;
+top: 1000px;
+  left:650px;
+  height: 200px;
+   font-family: Copperplate, Papyrus, fantasy, monospace;
+   width: 300px;
+}
 .b1{
 position: absolute;
 top: 1200px;
