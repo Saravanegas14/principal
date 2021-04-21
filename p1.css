@@ -47,4 +47,12 @@ top: 200px;
    font-family: Copperplate, Papyrus, fantasy, monospace;
    width: 300px;
 }
+.s1{
+  position: absolute;
+top: 750px;
+  left:250px;
+  height: 200px;
+   font-family: Copperplate, Papyrus, fantasy, monospace;
+   width: 300px;
+}
 
